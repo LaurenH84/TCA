@@ -1,7 +1,7 @@
 baseURL = "https://festive-mestorf-cf09aa.netlify.app/"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "The Coaching Arc"
 
 [[menu.main]]
 name = "Home"
@@ -30,13 +30,13 @@ weight = 6
 
 [params]
 contactLink = "contact"
-copyright = "Copyright © Portio 2022"
+copyright = "Copyright © The Coaching Arc 2022"
 footerLogo = "images/contact/widget-logo.png"
-logo = "images/site-navigation/logo.png"
+logo = "images/TCALogo.png"
 
 [params.address]
-email = "hello@example.com"
-phone = "+(448) 833 5272 332"
+email = "laurenh@thecoachingarc.com"
+phone = "+(44)7816136905"
 
 [[params.social]]
 icon = "bi-facebook"
