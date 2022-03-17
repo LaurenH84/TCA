@@ -1,3 +1,56 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+paginate = 6
+theme = "portio"
+title = "Portio"
+
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Service"
+url = "#service"
+weight = 3
+[[menu.main]]
+name = "Resume"
+url = "#resume"
+weight = 4
+[[menu.main]]
+name = "Skills"
+url = "#skills"
+weight = 5
+[[menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 6
+
+[params]
+contactLink = "contact"
+copyright = "Copyright © Portio 2022"
+footerLogo = "images/contact/widget-logo.png"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+email = "hello@example.com"
+phone = "+(448) 833 5272 332"
+
+[[params.social]]
+icon = "bi-facebook"
+url = "https://www.facebook.com/"
+weight = 1
+[[params.social]]
+icon = "bi-linkedin"
+url = "https://www.linkedin.com/"
+weight = 2
+[[params.social]]
+icon = "bi-pinterest"
+url = "https://www.pinterest.com/"
+weight = 3
+[[params.social]]
+icon = "bi-twitter"
+url = "https://twitter.com/"
+weight = 4
