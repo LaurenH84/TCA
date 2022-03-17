@@ -1,11 +1,10 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Welcome to
 content: >
-  # I am here for your personal business
+  # The Coaching Arc
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
+  A Space for Change
 buttonName: Contact me
 buttonURL: contact
-image: images/hero/2960351.jpg
+image: images/LaurenWorkPhoto1.jpg
