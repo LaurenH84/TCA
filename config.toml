@@ -12,16 +12,30 @@ name = "About"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Service"
+name = "Services"
 url = "#service"
 weight = 3
-[[menu.main]]
+
+[[menu.sitemap]]
+name = "Home"
+url = ""
+weight = 1
+[[menu.sitemap]]
+name = "About"
+url = "#about"
+weight = 2
+[[menu.sitemap]]
+name = "Services"
+url = "#service"
+weight = 3
+[[menu.sitemap]]
 name = "Contact"
-url = "#contact"
+url = "contact"
 weight = 4
 
 [params]
-contactLink = "contact"
+ctaText = "Get in touch"
+ctaLink = "contact"
 copyright = "Copyright © The Coaching Arc 2022"
 footerLogo = "images/TCALogoWhite.png"
 logo = "images/TCALogoBlue.png"
@@ -31,18 +45,14 @@ email = "laurenh@thecoachingarc.com"
 phone = "+(44)7816136905"
 
 [[params.social]]
-icon = "bi-facebook"
-url = "https://www.facebook.com/"
-weight = 1
-[[params.social]]
 icon = "bi-linkedin"
 url = "https://www.linkedin.com/"
-weight = 2
+weight = 1
 [[params.social]]
-icon = "bi-pinterest"
-url = "https://www.pinterest.com/"
-weight = 3
+icon = "bi-instagram"
+url = "https://www.instagram.com/"
+weight = 2
 [[params.social]]
 icon = "bi-twitter"
 url = "https://twitter.com/"
-weight = 4
+weight = 3
