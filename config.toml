@@ -36,7 +36,7 @@ weight = 4
 [params]
 ctaText = "Get in touch"
 ctaLink = "contact"
-copyright = "Copyright © The Coaching Arc 2022"
+copyright = "Copyright © 2022 The Coaching Arc"
 footerLogo = "images/TCALogoWhite.png"
 logo = "images/TCALogoBlue.png"
 
