@@ -15,23 +15,14 @@ weight = 2
 name = "Services"
 url = "#service"
 weight = 3
-
-[[menu.sitemap]]
-name = "Home"
-url = ""
-weight = 1
-[[menu.sitemap]]
-name = "About"
-url = "#about"
-weight = 2
-[[menu.sitemap]]
-name = "Services"
-url = "#service"
-weight = 3
-[[menu.sitemap]]
+[[menu.main]]
 name = "Contact"
-url = "contact"
+url = "#contact"
 weight = 4
+[[menu.main]]
+name = "Meet the team"
+url = "meet-the-team"
+weight = 5
 
 [params]
 ctaText = "Get in touch"
