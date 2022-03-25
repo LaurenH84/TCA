@@ -12,6 +12,6 @@ content: >
   to solve the design problem and find easy and better solutions to solve it.
 button1Name: Get in touch
 button2Name: Meet the team
-button1Target: contact
-button2Target: contact
+button1Target: "#contact"
+button2Target: meet-the-team
 image: images/LaurenWorkPhoto2.jpg

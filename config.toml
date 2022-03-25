@@ -16,17 +16,15 @@ name = "Services"
 url = "#service"
 weight = 3
 [[menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 4
-[[menu.main]]
 name = "Meet the team"
 url = "meet-the-team"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url = "#contact"
 weight = 5
 
 [params]
-ctaText = "Get in touch"
-ctaLink = "contact"
 copyright = "Copyright © 2022 The Coaching Arc"
 footerLogo = "images/TCALogoWhite.png"
 logo = "images/TCALogoBlue.png"

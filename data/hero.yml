@@ -6,5 +6,5 @@ content: >
 
   A Space for Change
 buttonName: Contact me
-buttonURL: contact
+buttonURL: "#contact"
 image: images/LaurenWorkPhoto1.jpg
