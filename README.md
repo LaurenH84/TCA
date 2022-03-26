@@ -1,4 +1,4 @@
-# TCA website
+# [![Netlify Status](https://api.netlify.com/api/v1/badges/3157ec0e-79e4-44d6-9561-7941b26f9826/deploy-status)](https://app.netlify.com/sites/festive-mestorf-cf09aa/deploys)
 
 ## Files of relevance
 - `config.toml` contains site-wide configuration
