@@ -1,44 +1,22 @@
 ---
 enable: true
 title: >
-  ## Services
+  ## What We Do
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  There are various ways we work with you depending on your needs: 
 service:
   - content: >
-      #### UI/UX Design 
+      #### Individual Coaching
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      One to one coaching programmes that support you to thrive as a leader
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Team Coaching
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Team coaching programmes that help your team work together better
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Coaching Skills
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Coaching skills workshops that help develop your own coaching skills to enhance your leadership
     image: images/service/creative.svg
-  - content: >
-      #### Branding
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
