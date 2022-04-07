@@ -8,7 +8,7 @@ service:
   - content: >
       #### Individual Coaching
 
-      One to one coaching programmes that support you to thrive as a leader
+      One to one coaching programmes that support you as a leader
     image: images/service/ui-ux.svg
   - content: >
       #### Team Coaching
