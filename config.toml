@@ -12,7 +12,7 @@ name = "About"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Services"
+name = "What We Do"
 url = "#service"
 weight = 3
 
