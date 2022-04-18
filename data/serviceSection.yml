@@ -9,14 +9,11 @@ service:
       #### Individual Coaching
 
       One to one coaching that supports you as a leader
-    image: images/service/ui-ux.svg
   - content: >
       #### Team Coaching
 
       Team coaching that helps your team work together better
-    image: images/service/web.svg
   - content: >
       #### Coaching Skills
 
       Coaching skill development to enhance your leadership
-    image: images/service/creative.svg
