@@ -8,12 +8,12 @@ service:
   - content: >
       #### Individual Coaching
 
-      One to one coaching programmes that support you as a leader
+      One to one coaching that supports you as a leader
     image: images/service/ui-ux.svg
   - content: >
       #### Team Coaching
 
-      Team coaching programmes that help your team work together better
+      Team coaching that helps your team work together better
     image: images/service/web.svg
   - content: >
       #### Coaching Skills
