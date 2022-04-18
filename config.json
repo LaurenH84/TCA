@@ -4,6 +4,6 @@
   },
   "DURATIONS": {
     "SCROLL": 1000,
-    "SLICK": 2000
+    "SLICK": 5000
   }
 }
