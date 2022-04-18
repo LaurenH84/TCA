@@ -1,6 +1,6 @@
 baseURL = "https://festive-mestorf-cf09aa.netlify.app/"
 paginate = 6
-theme = "portio"
+theme = "local"
 title = "The Coaching Arc"
 
 [[menu.main]]
@@ -15,19 +15,9 @@ weight = 2
 name = "Services"
 url = "#service"
 weight = 3
-#[[menu.main]]
-#name = "Meet the team"
-#url = "meet-the-team"
-#weight = 4
-#[[menu.main]]
-#name = "Contact"
-#url = "#contact"
-#weight = 5
 
 [params]
 copyright = "Copyright © 2022 The Coaching Arc"
-footerLogo = "images/logo-b.png"
-logo = "images/logo.png"
 
 [params.address]
 email = "laurenh@thecoachingarc.com"
