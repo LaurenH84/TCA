@@ -15,14 +15,14 @@ weight = 2
 name = "Services"
 url = "#service"
 weight = 3
-[[menu.main]]
-name = "Meet the team"
-url = "meet-the-team"
-weight = 4
-[[menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 5
+#[[menu.main]]
+#name = "Meet the team"
+#url = "meet-the-team"
+#weight = 4
+#[[menu.main]]
+#name = "Contact"
+#url = "#contact"
+#weight = 5
 
 [params]
 copyright = "Copyright © 2022 The Coaching Arc"
