@@ -26,8 +26,8 @@ weight = 3
 
 [params]
 copyright = "Copyright © 2022 The Coaching Arc"
-footerLogo = "images/TCALogoWhite.png"
-logo = "images/TCALogoBlue.png"
+footerLogo = "images/logo-b.png"
+logo = "images/logo.png"
 
 [params.address]
 email = "laurenh@thecoachingarc.com"
