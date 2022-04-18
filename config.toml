@@ -25,13 +25,13 @@ phone = "+(44)7816136905"
 
 [[params.social]]
 icon = "bi-linkedin"
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/in/lhogg"
 weight = 1
 [[params.social]]
 icon = "bi-instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/thecoachingarc"
 weight = 2
 [[params.social]]
 icon = "bi-twitter"
-url = "https://twitter.com/"
+url = "https://twitter.com/thecoachingarc"
 weight = 3
