@@ -1,6 +1,6 @@
 baseURL = "https://festive-mestorf-cf09aa.netlify.app/"
 paginate = 6
-theme = "local"
+theme = "portio"
 title = "The Coaching Arc"
 
 [[menu.main]]
