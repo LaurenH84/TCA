@@ -4,5 +4,5 @@ content: |
   The Coaching Arc is about creating space for change through great conversations.
   
   For us, these great conversations are about helping you to generate awareness, clarity and insights that lead to deliberate action in pursuit of your goals. 
-buttonName: Book a free chemistry call
-buttonURL: "#contact"
+cta: Book a free chemistry call
+ctaMessage: "I would like to book a free chemistry call"
