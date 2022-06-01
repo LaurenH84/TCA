@@ -7,7 +7,7 @@ content: |
   
   Read Lauren's profile to learn more, or get in touch to book your free chemistry call. 
 button1Name: Get in touch
-button2Name: Meet the team
+button2Name: Read more
 button1Target: "#contact"
 button2Target: meet-the-team
 image: images/LaurenWorkPhoto1.jpg
