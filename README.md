@@ -3,7 +3,8 @@
 ## Files of relevance
 - `config.toml` contains site-wide configuration
 - `config.json` contains parameters for the JavaScript code, which is primarily animation (e.g. scrolls and slides)
-- `data/*.yml` contains content for each section
+- `content/about/*.md` contains content for each about page
+- `data/*.yml` contains content for each section of the home page
 - `static/images` contains images (use JPEG for photos, and PNG for everything else)
 
 ## Deployments
