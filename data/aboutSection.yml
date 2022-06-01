@@ -9,5 +9,5 @@ content: |
 button1Name: Get in touch
 button2Name: Read more
 button1Target: "#contact"
-button2Target: meet-the-team
+button2Target: "about/lauren-hogg/"
 image: images/LaurenWorkPhoto1.jpg
