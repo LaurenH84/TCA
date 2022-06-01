@@ -1,4 +1,4 @@
-baseURL = "https://festive-mestorf-cf09aa.netlify.app/"
+baseURL = "http://www.thecoachingarc.com"
 paginate = 6
 theme = "portio"
 title = "The Coaching Arc"
