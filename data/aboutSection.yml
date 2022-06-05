@@ -7,7 +7,8 @@ content: |
   
   Read Lauren's profile to learn more, or get in touch to book your free chemistry call. 
 button1Name: Get in touch
-button2Name: Read more
+button2Name: About Lauren
 button1Target: "#contact"
 button2Target: "about/lauren-hogg/"
 image: images/LaurenWorkPhoto1.jpg
+alt: Photograph of Lauren
