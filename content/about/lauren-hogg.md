@@ -1,5 +1,6 @@
 ---
 title: Lauren Hogg
+image: images/LaurenWorkPhoto1.jpg
 ---
 # Lauren&nbsp;Hogg&nbsp;|&nbsp;Coach
 
