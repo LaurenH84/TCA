@@ -5,7 +5,7 @@
 - `config.json` contains parameters for the JavaScript code, which is primarily animation (e.g. scrolls and slides)
 - `content/about/*.md` contains content for each about page
 - `data/*.yml` contains content for each section of the home page
-- `netlify.toml` Netlify-specific configuration
+- `netlify.toml` contains Netlify-specific configuration
 - `static/images` contains images (use JPEG for photos, and PNG for everything else)
 
 ## Deployments
