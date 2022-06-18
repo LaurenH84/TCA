@@ -1,0 +1,8 @@
+[[redirects]]
+  from = "https://thecoachingarc.co.uk/*"
+  to = "https://www.thecoachingarc.com/:splat"
+  force = true
+[[redirects]]
+  from = "https://www.thecoachingarc.co.uk/*"
+  to = "https://www.thecoachingarc.com/:splat"
+  force = true
