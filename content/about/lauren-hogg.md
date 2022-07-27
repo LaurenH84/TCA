@@ -17,13 +17,13 @@ In working with you, Lauren will:
 4.	Bring clarity and alignment to conversations around purpose, goals, expectations, and ways of working, in order to improve relationships and lead to better team working.
 5.	Create space for focused thinking that translates ideas into practical actions and solutions.
 
-*What clients say about Lauren*
+**What clients say about Lauren**
 > “Lauren's open and caring coaching style is a breath of fresh air when I need space to think and reflect on where I am and my future goals, and the transition and activity needed to move from one space to another. Lauren reads people very well, and has a knack for asking the right questions at the right time - often flooring me with what comes up when she drops one of her pearls into our conversations. Lauren's warmth, humour, and insight are valuable tools to support anyone on their journey of change.” - Sarah C
 
-*Client work*
+**Client work**
 Lauren has worked with companies and individuals across various sectors. Clients include the Chartered Society of Physiotherapy, HDR UK, Brilliant Noise, Brandwatch, AkerBP, ConocoPhillips, RLG International, the Institute of Physics, UCL and others. 
 
-*Qualifications and accreditations*
+**Qualifications and accreditations**
 EMCC Practitioner Coaching Skills Award (EQA)
 EMCC Foundation Coaching Skills Award (EIA)
 Accredited practitioner for the TMSDI Team Management Profile 
