@@ -24,8 +24,8 @@ In working with you, Lauren will:
 Lauren has worked with companies and individuals across various sectors. Clients include the Chartered Society of Physiotherapy, HDR UK, Brilliant Noise, Brandwatch, AkerBP, ConocoPhillips, RLG International, the Institute of Physics, UCL and others. 
 
 **Qualifications and accreditations**  
-EMCC Practitioner Coaching Skills Award (EQA)  
-EMCC Foundation Coaching Skills Award (EIA)  
+EMCC Senior Practitioner (EQA)  
+EMCC Practitioner (EIA)  
 Accredited practitioner for the TMSDI Team Management Profile  
 MA Applied Music Psychology  
 PGDip Social Research Methods  
