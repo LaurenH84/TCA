@@ -31,7 +31,3 @@ weight = 1
 icon = "bi-instagram"
 url = "https://www.instagram.com/thecoachingarc"
 weight = 2
-[[params.social]]
-icon = "bi-twitter"
-url = "https://twitter.com/thecoachingarc"
-weight = 3
