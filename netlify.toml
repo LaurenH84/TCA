@@ -7,4 +7,4 @@
   to = "https://www.thecoachingarc.com/:splat"
   force = true
 [build.environment]
-  HUGO_VERSION = "0.163.1"
+  HUGO_VERSION = "0.80.0"
