@@ -20,7 +20,7 @@ weight = 3
 copyright = "Copyright © 2022 The Coaching Arc"
 
 [params.address]
-email = "laurenh@thecoachingarc.com"
+email = "lauren@thecoachingarc.com"
 phone = "+(44)7816136905"
 
 [[params.social]]
